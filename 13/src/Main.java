@@ -22,6 +22,6 @@ public class Main {
     else if (a == 'C') return 100;
     else if (a == 'D') return 500;
     else if (a == 'M') return 1000;
-    return 1;
+    return 0;
   }
 }
